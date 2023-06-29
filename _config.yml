@@ -1,21 +1,21 @@
 # Site settings
-title: Eventually
+title: HS explorer
 email: youremailaddress@gmail.com
-description: A simple template for telling the world when you'll launch your next big thing. Brought to you by HTML5 UP.
-baseurl: "/eventually-jekyll-theme" # the subpath of your site, e.g. /blog
+description: We provide the most powerful HS classification services to simplify your trade procedure.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+gitlab_url: https://gitlab.com/
+googleplus_url: https://plus.google.com/
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/
 
 # Build settings
 markdown: kramdown
