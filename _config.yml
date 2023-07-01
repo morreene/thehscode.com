@@ -1,7 +1,8 @@
 # Site settings
 title: HS explorer
 email: youremailaddress@gmail.com
-description: We provide the most powerful HS classification services to simplify your trade procedure.
+description: "Empowering Your Trade: Simplifying HS Classification for Seamless Business"
+# description: We provide the most powerful HS classification services to simplify your trade procedure.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
